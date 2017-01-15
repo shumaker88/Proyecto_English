@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">prueba33</string>
+    <string name="botton">Convertir</string>
+    <string name="texto">Ingresar</string>
+    <string name="tex">numbers</string>
+    <string name="alea">number</string>
+    <string name="btn2">Generar numero</string>
+
+
+
+</resources>
